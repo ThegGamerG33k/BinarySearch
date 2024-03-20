@@ -1,0 +1,10 @@
+﻿  main.cpp
+  text_circle.cpp
+  word_drawer.cpp
+  queues_tests.cpp
+  array_list_tests.cpp
+  array_list_utility_tests.cpp
+  linked_list_tests.cpp
+  stack_tests.cpp
+  Generating Code...
+  ssuds.vcxproj -> C:\Users\nweller\etec2101\lab06_soln\bin\vs2022\Debug\ssuds_d.exe
